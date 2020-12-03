@@ -25,6 +25,7 @@ ul {
 }
 
 a {
+    font-weight: bold;
     color: #FFF;
     text-decoration: none;
 }
@@ -197,7 +198,6 @@ label {
 .spacebetween {
     display: flex;
     justify-content: space-between;
-   font-weight: bold;
 }
 
 .spacearound {
